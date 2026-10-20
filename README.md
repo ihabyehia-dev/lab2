@@ -1,2 +1,2 @@
 # lab2
-double linked lists
+This lab i practiced my double linkedlists skills
